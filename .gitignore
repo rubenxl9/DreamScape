@@ -2,3 +2,8 @@
 /DreamScape/.vs
 DreamScape/.vs/DreamScape/FileContentIndex/1518b42d-45d8-44c8-a4d0-053431fea855.vsidx
 *.cs
+DreamScape/DreamScape/obj/x64/Debug/net8.0-windows10.0.19041.0/win-x64/DreamScape.assets.cache
+DreamScape/DreamScape/obj/x64/Debug/net8.0-windows10.0.19041.0/win-x64/XamlSaveStateFile.xml
+DreamScape/DreamScape/obj/x64/Debug/net8.0-windows10.0.19041.0/win-x64/DreamScape.AssemblyInfo.cs
+*.vsidx
+/DreamScape/DreamScape/obj
