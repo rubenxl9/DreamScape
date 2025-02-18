@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ruben\\source\\repos\\DreamScape\\DreamScape\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{164AACD0-43D9-4B13-8F4F-B70A7F755126}|DreamScape\\DreamScape.csproj|c:\\users\\ruben\\source\\repos\\dreamscape\\dreamscape\\dreamscape\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{164AACD0-43D9-4B13-8F4F-B70A7F755126}|DreamScape\\DreamScape.csproj|solutionrelative:dreamscape\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ruben\\source\\repos\\DreamScape\\DreamScape\\DreamScape\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "DreamScape\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\ruben\\source\\repos\\DreamScape\\DreamScape\\DreamScape\\MainWindow.xaml",
+              "RelativeToolTip": "DreamScape\\MainWindow.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-18T09:35:20.052Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
