@@ -14,5 +14,7 @@ namespace DreamScape.Data
         public string Email { get; set; }
         public int role_id { get; set; }
 
+        public static Player LoggedInUser { get; set; }
+
     }
 }

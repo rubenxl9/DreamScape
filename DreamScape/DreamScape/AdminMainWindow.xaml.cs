@@ -12,30 +12,20 @@ using Microsoft.UI.Xaml.Data;
 using Microsoft.UI.Xaml.Input;
 using Microsoft.UI.Xaml.Media;
 using Microsoft.UI.Xaml.Navigation;
-using DreamScape.Data;
+
+// To learn more about WinUI, the WinUI project structure,
+// and more about our project templates, see: http://aka.ms/winui-project-info.
 
 namespace DreamScape
 {
-    public sealed partial class MainWindow : Window
+    /// <summary>
+    /// An empty window that can be used on its own or navigated to within a Frame.
+    /// </summary>
+    public sealed partial class AdminMainWindow : Window
     {
-        public MainWindow()
+        public AdminMainWindow()
         {
             this.InitializeComponent();
-            using (var db = new AppDbContext())
-            {
-                db.Database.EnsureDeleted();
-                db.Database.EnsureCreated();
-
-            }
-
-            var baseWindow = new LoginWindow();
-
-            baseWindow.Activate();
-            DispatcherQueue.TryEnqueue(() =>
-            {
-                this.Close();
-            });
-
         }
     }
 }

@@ -1,9 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ruben\\source\\repos\\DreamScape\\DreamScape\\",
+  "WorkspaceRootPath": "C:\\Users\\ruben\\Documents\\GitHub\\DreamScape\\DreamScape\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{164AACD0-43D9-4B13-8F4F-B70A7F755126}|DreamScape\\DreamScape.csproj|c:\\users\\ruben\\source\\repos\\dreamscape\\dreamscape\\dreamscape\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{164AACD0-43D9-4B13-8F4F-B70A7F755126}|DreamScape\\DreamScape.csproj|c:\\users\\ruben\\documents\\github\\dreamscape\\dreamscape\\dreamscape\\registerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{164AACD0-43D9-4B13-8F4F-B70A7F755126}|DreamScape\\DreamScape.csproj|solutionrelative:dreamscape\\registerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164AACD0-43D9-4B13-8F4F-B70A7F755126}|DreamScape\\DreamScape.csproj|c:\\users\\ruben\\documents\\github\\dreamscape\\dreamscape\\dreamscape\\registerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{164AACD0-43D9-4B13-8F4F-B70A7F755126}|DreamScape\\DreamScape.csproj|solutionrelative:dreamscape\\registerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164AACD0-43D9-4B13-8F4F-B70A7F755126}|DreamScape\\DreamScape.csproj|c:\\users\\ruben\\documents\\github\\dreamscape\\dreamscape\\dreamscape\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{164AACD0-43D9-4B13-8F4F-B70A7F755126}|DreamScape\\DreamScape.csproj|solutionrelative:dreamscape\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164AACD0-43D9-4B13-8F4F-B70A7F755126}|DreamScape\\DreamScape.csproj|c:\\users\\ruben\\documents\\github\\dreamscape\\dreamscape\\dreamscape\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{164AACD0-43D9-4B13-8F4F-B70A7F755126}|DreamScape\\DreamScape.csproj|solutionrelative:dreamscape\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164AACD0-43D9-4B13-8F4F-B70A7F755126}|DreamScape\\DreamScape.csproj|c:\\users\\ruben\\documents\\github\\dreamscape\\dreamscape\\dreamscape\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{164AACD0-43D9-4B13-8F4F-B70A7F755126}|DreamScape\\DreamScape.csproj|solutionrelative:dreamscape\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164AACD0-43D9-4B13-8F4F-B70A7F755126}|DreamScape\\DreamScape.csproj|c:\\users\\ruben\\documents\\github\\dreamscape\\dreamscape\\dreamscape\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{164AACD0-43D9-4B13-8F4F-B70A7F755126}|DreamScape\\DreamScape.csproj|solutionrelative:dreamscape\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -19,12 +39,77 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "RegisterPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ruben\\Documents\\GitHub\\DreamScape\\DreamScape\\DreamScape\\RegisterPage.xaml.cs",
+              "RelativeDocumentMoniker": "DreamScape\\RegisterPage.xaml.cs",
+              "ToolTip": "C:\\Users\\ruben\\Documents\\GitHub\\DreamScape\\DreamScape\\DreamScape\\RegisterPage.xaml.cs",
+              "RelativeToolTip": "DreamScape\\RegisterPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T09:51:09.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterPage.xaml",
+              "DocumentMoniker": "C:\\Users\\ruben\\Documents\\GitHub\\DreamScape\\DreamScape\\DreamScape\\RegisterPage.xaml",
+              "RelativeDocumentMoniker": "DreamScape\\RegisterPage.xaml",
+              "ToolTip": "C:\\Users\\ruben\\Documents\\GitHub\\DreamScape\\DreamScape\\DreamScape\\RegisterPage.xaml",
+              "RelativeToolTip": "DreamScape\\RegisterPage.xaml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwBQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-20T08:23:12.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ruben\\Documents\\GitHub\\DreamScape\\DreamScape\\DreamScape\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DreamScape\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ruben\\Documents\\GitHub\\DreamScape\\DreamScape\\DreamScape\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "DreamScape\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T08:21:34.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ruben\\Documents\\GitHub\\DreamScape\\DreamScape\\DreamScape\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "DreamScape\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\ruben\\Documents\\GitHub\\DreamScape\\DreamScape\\DreamScape\\LoginWindow.xaml",
+              "RelativeToolTip": "DreamScape\\LoginWindow.xaml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-20T08:21:04.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ruben\\Documents\\GitHub\\DreamScape\\DreamScape\\DreamScape\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DreamScape\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ruben\\Documents\\GitHub\\DreamScape\\DreamScape\\DreamScape\\MainWindow.xaml.cs",
+              "RelativeToolTip": "DreamScape\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T09:45:42.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\ruben\\source\\repos\\DreamScape\\DreamScape\\DreamScape\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ruben\\Documents\\GitHub\\DreamScape\\DreamScape\\DreamScape\\MainWindow.xaml",
               "RelativeDocumentMoniker": "DreamScape\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\ruben\\source\\repos\\DreamScape\\DreamScape\\DreamScape\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\ruben\\Documents\\GitHub\\DreamScape\\DreamScape\\DreamScape\\MainWindow.xaml",
               "RelativeToolTip": "DreamScape\\MainWindow.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-02-18T09:35:20.052Z",
               "EditorCaption": ""
