@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DreamScape")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+937283c088379b9d11c56c0f606a7a8dfec47853")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4cbd0667033e4b7d51f793d227119fa0ee794100")]
 [assembly: System.Reflection.AssemblyProductAttribute("DreamScape")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DreamScape")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
